@@ -1,0 +1,17 @@
+{
+  "center": { "zip": "63137", "lat": 38.7465, "lon": -90.2189, "radiusMiles": 25 },
+  "cameras": [
+    {
+      "id": "manual-i270-example",
+      "name": "I-270 @ example overpass",
+      "highway": "I-270",
+      "direction": "EB",
+      "mileMarker": "34.0",
+      "lat": 38.758,
+      "lon": -90.222,
+      "feedType": "snapshot",
+      "snapshotUrl": null,
+      "streamUrl": null
+    }
+  ]
+}

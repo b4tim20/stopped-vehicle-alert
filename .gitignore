@@ -1,0 +1,12 @@
+node_modules/
+.vercel/
+.tanstack/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+AGENTS.md
+attachments/
+.node_modules.lock
